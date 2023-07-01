@@ -1,6 +1,9 @@
 # CryptoClustering
 Showcase the use of unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
+![k_scatter](https://github.com/anthonybpino/CryptoClustering/assets/112681621/1d623195-5a29-4927-b5d7-fd66a4be240d)
+
+
 ## Repo Description/Outline:
 
 Using crypto price data in a csv, data is scaled/transformed for use in unsupervised machine learning. Some other forms of data manipulation include:
